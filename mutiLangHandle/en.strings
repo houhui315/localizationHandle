@@ -1,0 +1,402 @@
+
+"书架" = "Library";
+"书城" = "Discover";
+"个人" = "Profile";
+
+"加载中..." = "loading...";
+
+"删除" = "Delete";
+"取消" = "Cancel";
+"保存" = "Save";
+"查看福利中心" = "View the welfare";
+"签到有礼" = "Gain";
+"选择" = "Selecte ";
+"本书" = " Book";
+"请选择书籍" = "Selecte book";
+"Today Editor's Picks" = "Today Editor's Picks";
+"阅读偏好" = "Preference";
+"Reading Preference" = "Reading Preference";
+"Setting reading preferebces to catch more favorite novels" = "Setting reading preferebces to catch more favorite novels";
+"Save Settings" = "Save Settings";
+"Most popular" = "Most popular";
+
+"排行" = "Ranking";
+"免费" = "Free";
+"金币" = "Coins";
+"短片小说" = "Cerpen";
+"男频" = "Male’s pick";
+
+"新书推荐" = "New Release";
+"小编推荐" = "Editor Like";
+"更多" = "SEE MORE";
+"Like" = "Like";
+"Ratings" = "Ratings";
+
+"充值" = "Top Up";
+"浏览历史" = "Browse history";
+"问题反馈" = "Feedback";
+"我的金币：" = "My Coins:";
+"每日任务" = "Daily mission";
+"邀请好友赚金币" = "Invite friends to get Coins";
+"系统设置" = "Settings";
+"常见问题" = "FAQ";
+
+"请在此处表述您的建议和反馈，我们将变得更好！" = "Please leave your comments and suggestions here, it will help us do better！";
+"反馈内容不能为空！" = "Feedback cannot be empty!";
+"留下你的邮箱" = "Leave your mailbox";
+"提交反馈" = "Submit feedback";
+"提交成功" = "Submit Success";
+"提交失败" = "Submit Failed";
+"邀请好友" = "Invite friends";
+"去Facebook反馈问题" = "Submit feedback to Facebook";
+
+"设置" = "Setting";
+"自动购买章节" = "Automatic Purchase Chapter";
+"打开推送提醒" = "Turn on push notifications";
+"清除缓存" = "Clear cache";
+"当前版本" = "Updates";
+"退出登录" = "Log out";
+"正在清除" = "Clearing";
+"正在退出登录" = "Logging out";
+"登录" = "Click To Login";
+
+"书币明细" = "Recharge detail";
+"奖励明细" = "Rewards detail";
+"消费明细" = "EXpense detail";
+
+"搜索" = "Search";
+"搜索书籍和作者" = "Search for novel names";
+"删除所有书籍" = "Delete all histories?";
+
+"热门搜索" = "Recommend";
+"历史搜索" = "History";
+"书籍详情" = "Description";
+
+"加入书架" = "Add to Library";
+"下次进入书架就能看到这本书" = "You will see this book in the library next time";
+"加书架" = "Add to booshelf";
+"开始阅读" = "Start reading";
+"已加入书架" = "IN LIBRARY";
+"获取章节..." = "Getting Chapters...";
+"正在加入书架..." = "Adding to Bookshelves...";
+"正在获取内容..." = "Getting Content...";
+"打赏列表" = "Reward List";
+"点击更多" = "Click More";
+
+"金币/章" = " Coins/Chapter";
+
+"未知" = "Unknown";
+"[更多]" = "[more]";
+"最新更新" = "Update";
+
+"刚刚" = " just now";
+"年前" = " Year Ago";
+"月前" = " Month Ago";
+"天前" = " Days Ago";
+"小时前" = " Hours Ago";
+"分钟前" = " Minutes Ago";
+
+"签到任务" = "Check-in task";
+"已完成" = "GOT";
+"分钟" = " mins";
+"没有更多任务了~" = "No more tasks~";
+"已经签到" = "Have already signed in";
+"签到" = "Sign in now";
+"已签到" = "Signed";
+
+
+"连续签到奖励更多" = "Sign in every day for rewards";
+"已经连续签到" = "Continuous sign in ";
+"天" = " day";
+"做任务" = "START";
+"领取" = "GET";
+"已领取" = "GOT";
+"阅读时长" = "Reading";
+"每周一凌晨重新计算" = "Recalculate Every Monday Morning";
+"阅读" = "Read for ";
+"奖励" = "Reward";
+"未完成" = "START";
+"书卷" = " rolls";
+"完成" = "GOT";
+"明天签到奖励" = "Tomorrow sign-in reward ";
+"任务完成，获得书币奖励" = "Do Tasks, Get Gold Coins";
+"确定" = "Sure";
+"去完成" = "Do tasks";
+"已经领取" = "Has been completed";
+
+"Facebook登录" = "Facebook";
+"Google+登录" = "Google+";
+"Facebook授权失败" = "Facebook authorization failed";
+"Google+授权失败" = "Google+ authorization failed";
+"帐户登录" = "Recently Logged in";
+
+"数以百万计的硬币在等着你" = "Millions of Coins are waiting for you";
+
+"下一章" = "Next";
+"上一章" = "Previous";
+"章节" = "Chapters";
+"书签" = "Bookmark";
+"亮度" = "Bright";
+"翻书动画" = "PageTurn";
+"字体" = "Type Face";
+"字号" = "Font Size";
+"无效果" = "None";
+"平移" = "Parallel";
+"仿真" = "Simulation";
+"系统" = "System";
+"字体一" = "TypeOne";
+"字体二" = "TypeTwo";
+"字体三" = "TypeThree";
+
+
+"解锁本章节:" = "Unlock this section：";
+"付费解锁章节" = "Pay to unlock this chapter";
+"领取书卷免费读书" = "Do tasks unlock this section";
+"自动购买 不再提醒" = "Automatic purchase no prompt anymore";
+
+"暂无数据，刷新重试" = "No Data";
+//"暂无数据" = "No data yet";
+
+"隐私政策" = "Privacy Policy";
+"发现新版本" = "new version";
+"更新" = "Update";
+"关闭" = "Close";
+
+"提示" = "Hins";
+"使用必须注意查看" = "Introdution and Notice ";
+"获得" = "earn";
+
+"清空" = "Clear";
+"结束" = "Whether the";
+"选择充值数量" = "Select recharge quantity";
+
+"It's the last version" = "It's the last version";
+"新版本" = "Find New Version V";
+"更新版本" = "Update Version Now";
+
+"登录失败" = "Login failed";
+"网络出问题了~" = "Network Errors";
+"分享" = "Share";
+
+"请重新登录" = "Please to Login";
+
+"英语" = "English";
+"越南语" = "Vietnamese";
+"印尼语" = "Indonesian";
+
+"切换语言" = "Language switch";
+"确认切换" = "Confirm switch";
+
+"您已停用应用内购买权限。 请在”设置“中启用它" = "You have disabled the in-app purchase permission. Please enable it in Settings";
+"失败" = "failure";
+"无法连接到App商店！" = "Unable to connect to App store!";
+
+"金币不足，点击充值" = "Gold Coins is Insufficient, Please Purchase";
+"商品ID为空" = "Product ID is empty";
+"App Store Connection Failed" = "App Store Connection Failed";
+"用户禁止应用内付费购买" = "Users prohibit in-app purchases";
+"未知的错误" = "Unknown Error";
+"当前账户无法购买商品" = "Current account cannot purchase products";
+"订单已取消" = "The order has been cancelled";
+"订单无效" = "Invalid order";
+"当前设备无法购买商品" = "Current equipment cannot purchase products";
+"当前商品不可用" = "Current products are not available";
+
+"有更新" = " New Update ";
+
+"看广告解锁章节" = "Watching Ads Unlock the Chapter";
+"今日广告已看完，请明日再来" = "No more times come back tomorrow";
+
+
+"评论" = "Comments";
+"查看全部" = "Look at all";
+"发布评论" = "Post Comments";
+"在这里输入您的评论(限500个字符)" = "Enter your comments here (500 characters)";
+"评论列表" = "Daftar komentar";
+"评论正在审核中" = "Comments reviewing";
+"评论内容不能为空" = "Comments cannot be empty";
+"评分不能为0" = "Score cannot be 0";
+
+
+"未完待续" = "To be continue";
+"新章节正在写作中..." = "A new chapter is in writing...";
+"给作者打赏催更" = "  To reward the author and ask him to update  ";
+"全书完结" = "At the end of the book";
+"喜欢这本书就给作者一点打赏吧" = "If you like this book, give the author a little reward";
+"给作者打赏" = "To reward the author";
+"你可能喜欢的书" = "Books you might like";
+"请选择打赏金币数量" = "Please choose the amount of reward coins";
+"确认打赏" = "Confirmation reward";
+"已打赏：" = "Have been rewarded: ";
+"打赏" = "Reward";
+"剩余金币：" = "Remaining gold coins: ";
+"充值金币不到账？点击" = "Did the coin top up fail? Click here for ";
+"联系客服" = "coustomer service";
+
+/** 给作者打赏 */
+
+"我的排名" = "My Rank";
+"未上榜" = "Not on the list";
+"提升排名" = "Improve rank";
+"未登录" = "Not login";
+
+"截止日期：" = "Deadline：";
+"每天免费获得金币" = "Get gold coins for free every day";
+"广告免费" = "Free";
+
+"复制成功" = "Copy Success";
+"填写邀请码" = "Fill In The Invitation Code";
+"在线客服" = "Customer Service";
+"详情" = "Detail";
+
+"欢迎来到ReadMe" = "Welcome to ReadMe";
+"我们会根据性别来推荐你喜欢的小说" = "We'll recommend your favorite novels based on your gender";
+"男生" = "Boy";
+"女生" = "Girl";
+"开始阅读" = "Start Reading";
+"Try Reading" = "Try Reading";
+"请选择性别" = "Please select";
+"优先推荐男生喜欢的小说~" = "Give priority to recommend boys' novels";
+"优先推荐女生喜欢的小说~" = "Give priority to recommend girls' novels";
+
+//"登录后才可继续阅读" = "Login to continue reading";
+//"请记住你的登录方式" = "Please remember your login method";
+
+"给个5星好评吧" = "Please give me five stars";
+"你的鼓励，才是我们改进的动力~" = "Your encouragement is a spur to our improvement";
+"鼓励一下" = "Like it, support !";
+"下次再说" = "Next time";
+
+"邀请码" = "Invitation code";
+"输入你好友的邀请码" = "Enter your friend's invitation code";
+"填写邀请码（找你的好友索要）" = "Fill in the invitation code (Find it from your friends)";
+"立即提交" = "OK";
+"人在读" = "people are reading";
+
+"发现未到账订单,请点击补单进行补单" = "There is an order that the coins are not credited to the account, please click Recharge to add free coins";
+"补单" = "Recharge";
+"补单成功" = "Success";
+
+"更新进度" = "Update Progress";
+"阅读进度" = "Reading Progress";
+"未开始阅读" =  "Wait for your reading";
+"已完结" = "Finished";
+"Saved successfully" = "Saved successfully";
+"Hot Tags" = "Hot Tags";
+"See all Editor's picks" = "See all Editor's picks";
+"See all ranking" = "See all ranking";
+"All geners" = "All geners";
+
+"折" = "%";
+"本章是VIP章节,请支持作者" = " VIP chapter, support it";
+"限时优惠：本书全部章节解锁都是" = "Limited-time offer: It’s taking ";
+"本章价格：" = "Price：";
+"解锁章节" = "Unlocked chapters";
+"原价" = "Original:";
+"现价" = "Current:";
+"今日热门" = "Today’s Popular";
+"新书上架" = "New Books";
+"限时免费" = "Limited Free";
+"限时折扣" = "Limited Off";
+"限时降价" = "Discount";
+"短篇故事" = "Short stories";
+"大家都在看" = "Friends' Favorte";
+"畅销书" = "Popular Gener";
+"更新最勤的小说" = "Always update";
+"上线" = "Launch on ";
+"没有更多了~" = "No more ~";
+"暂无打赏~" = "No rewards ~";
+"写的太好了,支持一下" = "Nice chapter, support him";
+"男" = "Boy";
+"女" = "Girl";
+"性别选择" = "Gender switch";
+"点击重新加载页面" = "Click to reload the page";
+"限时免费：倒计时：" = "Limited free：Count down: ";
+"限时免费已结束" = "Free limited time has ended";
+"编辑精选" = "Editor's Choice";
+
+"充值详情" = "Billing Detail";
+"以折扣阅读书籍" = "Read books at a discount ";
+"提升SVIP等级" = "Increase SVIP level";
+"SVIP权益" = "SVIP equity";
+"充值明细" = "Recharge details";
+"当前等级:" = "current level:";
+"再充值" = "Recharge";
+"即可提升为SVIP" = "Can be promoted to SVIP";
+"提示：升级SVIP解锁最高优惠50%" = "Tip: Upgrade SVIP unlock up to 50% off";
+"提示：你是" = "Tip：SVIP ";
+"解锁章节" = " unlock Chapters for a ";
+"优惠" = " discount";
+//SVIP 1 unlock Chapters for a 90% discount        提示：你是SVIP 1 解锁章节优惠90%
+//Tip: Upgrade SVIP unlock up to 50% off            提示：升级SVIP解锁最高优惠50%
+
+
+//MARK:login
+"欢迎" = "Welcome";
+"请选择你的登录方式" = "Please select login method";
+"最后一次登录" = "Last logged";
+"跳过" = "Skip";
+
+//profile
+"开通SVIP" = "OPEN SVIP";
+"最大折扣为" = "Max discount for";
+"签到了" = "Signed in ";
+"天数" = " days in a row";
+"日常任务" = "Daily Task";
+"英语" = "English";
+"越南语" = "Tiếng Việt";
+"阅读时间" = "Reading";
+"浏览历史" = "Browse history";
+"BestSellers" = "BestSellers";
+"Reading" = "Reading";
+"Completed" = "Completed";
+
+//BookRack
+"登录获取奖励" = "Sign in every day for rewards ";
+"你可能会喜欢" = "You might like it";
+"书架上的书" = " books in your bookshelf";
+
+//BookMall
+"Home" = "Home";
+"Ranking" = "Ranking";
+"Gener" = "Gener";
+"连载中..." = "Serializing";
+"加载" = "Loading";
+"完本" = "Complete";
+"受欢迎" = "Popular";
+"礼物" = "Gift receive";
+"订阅" = "Subscribe";
+"完结" = "Completed";
+"此部分已锁定" = "This episode is locked";
+"观看视频解锁" = "Watch vido to unlock this episode";
+"自动解锁下一章" = "Auto-unlock next chapter";
+"VIP篇" = "VIP chapter";
+"免费借阅本章" = "Borrow this chapter for free";
+"借阅期为14天，在此期间您可以免费阅读本章" = "The borrow period is 14 days, during this period you can read the chapter for free.";
+"看更多" = "See More";
+"你有" = "You have ";
+"有机会免费借用这本小说的章节" = " chance to borrow the chapters of this novel for free!";
+"每天登录以获取奖励" = "Sign in every day for rewards";
+"更多" = "More";
+
+//BookDetail
+"阅读量" = "Reading";
+"购买量" = "Snbscriber";
+"礼物量" = "Gift Received";
+"概要" = "Synopsis";
+"可以借" = "Can borrow ";
+"免费章节" = " chapters for free";
+"免费借阅章节" = " chap. for free";
+"多久后" = " chap. after ";
+"小时" = " hours";
+"借阅提示" = "Can borrow the chapters of the novel for free per day, the borrowing times are clear everyday, and can not be superimpose";
+"现在借" = "Borrow now";
+"发表评论" = "Write comments";
+"评论" = "Review";
+"暂时没有评论" = "No comments yet";
+"版权信息" = "Copyright information";
+"借阅" = "Borrow";
+"重新加载" = "Reload";
+"暂无数据" = "please refresh and try again";
+"版权所有" = "The digital copyright of this book is providrd and discovered by ReadMe. All Rights Reserved.";
+ 
