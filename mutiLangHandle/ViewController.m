@@ -88,9 +88,8 @@
     
     NSMutableDictionary *mdict = [NSMutableDictionary dictionary];
     NSError *error = nil;
+    //多语言会有各种语言存在，只能用unicode码来取
     NSString *content = [NSString stringWithContentsOfFile:path encoding:NSUTF16StringEncoding error:&error];
-//    content = [content stringByReplacingOccurrencesOfString:@"\n" withString:@""];
-    
 //    NSLog(@"content = %@",content);
     NSArray *array = [content componentsSeparatedByString:@"\n"];
 //    NSLog(@"arraycount = %d",array.count);
@@ -121,16 +120,14 @@
         NSInteger index2 = [[ary objectAtIndex:1] intValue];
         NSInteger index3 = [[ary objectAtIndex:2] intValue];
         NSInteger index4 = [[ary objectAtIndex:3] intValue];
-        if (ary.count > 4) {
-            NSLog(@"error line (count = %d): %@:%@",ary.count,string,ary);
+        if (ary.count != 4) {//一行只能出现4个双引号，否则这行数据就是有问题的
+            NSLog(@"error line (count = %ld): %@:%@",ary.count,string,ary);
         }
         NSString *key = [string substringWithRange:NSMakeRange(index1+1, index2-index1-1)];
         NSString *value = [string substringWithRange:NSMakeRange(index3+1, index4-index3-1)];
         if (key.length > 1 && value.length > 1) {
             [mdict setObject:value forKey:key];
         }
-        
-//        NSLog(@"%@=%@",key,value);
     }
     
     return mdict;
